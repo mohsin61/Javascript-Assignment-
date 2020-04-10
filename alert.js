@@ -1,0 +1,1 @@
+alert("Hello World"); //hm JS ma statment (colon) ";" sa end krty hn or line change krne sa bhi statment end ho jati ha. 
